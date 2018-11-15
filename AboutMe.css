@@ -1,0 +1,11 @@
+body{
+    background-image: url("http://getwallpapers.com/wallpaper/full/f/b/9/183458.jpg");
+    background-size: 100% 100%;
+}
+#opening{
+    color: yellow;
+    font-size: 20pt;
+    display: flex;
+    justify-content: center;
+    background: darkblue;
+}
