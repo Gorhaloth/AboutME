@@ -1,11 +1,24 @@
 body{
-    background-image: url("http://getwallpapers.com/wallpaper/full/f/b/9/183458.jpg");
+    background-image: url("https://images.unsplash.com/photo-1527100673774-cce25eafaf7f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=60");
     background-size: 100% 100%;
+    background-attachment: fixed;
 }
+
 #opening{
     color: yellow;
     font-size: 20pt;
     display: flex;
     justify-content: center;
-    background: darkblue;
+}
+#begin{
+    color: yellow;
+    font-size: 15pt;
+    display: flex;
+    justify-content: center;
+}
+#nav{
+    color: yellow;
+    font-size: 15pt;
+    display: flex;
+    justify-content: center;
 }
